@@ -1,8 +1,8 @@
 # Hey there 👋
 
-I'm Gayatri, a Computer Engineering student who enjoys building clean and real-world projects with Java, React.js, and AI.
+I'm Gayatri, a Computer Engineering student passionate about building real-world applications and exploring modern technologies through hands-on projects.
 
-Currently exploring full-stack development, modern UI, and creative tech ideas through code.
+Currently focused on full-stack development, AI, and creating clean, user-friendly digital experiences.
 
 ---
 
@@ -18,7 +18,7 @@ Currently exploring full-stack development, modern UI, and creative tech ideas t
 
 ## A Bit About Me
 
-- 💻 I enjoy building useful and simple projects
-- 🌱 Always learning and experimenting
+- 💻 I enjoy turning ideas into practical projects
+- 🌱 Always learning, building, and experimenting
 - ✨ Interested in AI and modern web technologies
-- 🎨 I like clean UI and smooth user experiences
+- 🎨 I like clean UI and thoughtful user experiences
