@@ -2,7 +2,7 @@
 
 I'm **Gayatri**, a Computer Engineering student passionate about building real-world applications and exploring modern technologies through hands-on projects.
 
-I mostly work with **Java, React.js, Spring Boot**, and modern web technologies — while continuously learning and experimenting with AI and full-stack development.
+I mostly work with **Java, React.js, Spring Boot**, and modern web technologies while continuously learning and experimenting with AI and full-stack development.
 
 This profile is where I share projects, ideas, and things I'm currently building along the way.
 
@@ -35,6 +35,5 @@ This profile is where I share projects, ideas, and things I'm currently building
 - 🌱 Always learning and exploring new technologies
 - ✨ Interested in AI and modern web development
 - 🎨 I like clean UI and smooth digital experiences
-- 🚀 I learn best by shipping real things
 
 ---
