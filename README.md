@@ -38,9 +38,3 @@ This profile is where I share projects, ideas, and things I'm currently building
 - 🚀 I learn best by shipping real things
 
 ---
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=gayatri-nawale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatri-nawale&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
