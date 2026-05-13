@@ -8,9 +8,9 @@ Currently exploring full-stack development, modern UI, and creative tech ideas t
 
 ## Tools & Tech
 
-- Java, JavaScript, C++
+- Java, JavaScript, Python
 - React.js, Tailwind CSS
-- Firebase
+- Spring Boot
 - HTML, CSS
 - Git & GitHub
 
