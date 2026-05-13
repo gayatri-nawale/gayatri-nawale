@@ -1,12 +1,8 @@
 # Hey there 👋
 
-I'm Gayatri, a Computer Engineering student who enjoys building real-world projects and exploring new technologies.
+I'm Gayatri, a Computer Engineering student who enjoys building clean and real-world projects with Java, React.js, and AI.
 
-I mostly work with Java, React.js, Firebase, and a bit of AI.
-
-Currently learning more about full-stack development, clean UI design, and creating projects that solve real problems.
-
-This profile is where I share the things I’m building, learning, and experimenting with along the way.
+Currently exploring full-stack development, modern UI, and creative tech ideas through code.
 
 ---
 
@@ -22,8 +18,7 @@ This profile is where I share the things I’m building, learning, and experimen
 
 ## A Bit About Me
 
-- 💻 I enjoy turning ideas into projects
-- 🌱 Always learning something new
-- 🎨 I like clean and simple UI designs
-- 🚀 Interested in AI and modern web development
-- ✨ I believe small improvements make big differences
+- 💻 I enjoy building useful and simple projects
+- 🌱 Always learning and experimenting
+- ✨ Interested in AI and modern web technologies
+- 🎨 I like clean UI and smooth user experiences
