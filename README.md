@@ -37,3 +37,24 @@ This profile is where I share projects, ideas, and things I'm currently building
 - 🎨 I like clean UI and smooth digital experiences
 
 ---
+## 💻 Tech Stack
+
+### 🚀 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" />
+</p>
+
+### 🌐 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,figma" />
+</p>
+
+### ⚙️ Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,mongodb,postgresql" />
+</p>
+
+### 🛠 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,firebase" />
+</p>
