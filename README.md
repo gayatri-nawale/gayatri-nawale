@@ -8,12 +8,17 @@ This profile is where I share projects, ideas, and things I'm currently building
 
 ---
 
-## Tools & Tech
-
+##  Tools & Tech
 
 <div align="left">
 
 <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp,html,css,react,tailwind,spring,nodejs,mysql,mongodb,postgresql,git,github,docker,firebase,figma,vscode&theme=dark" />
+
+<sub>
+
+Java • JavaScript • Python • C • C++ • HTML • CSS • React • Tailwind • Spring Boot • Node.js • MySQL • MongoDB • PostgreSQL • Git • GitHub • Docker • Firebase • Figma • VS Code
+
+</sub>
 
 </div>
 
