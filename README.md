@@ -25,3 +25,14 @@ This profile is where I share projects, ideas, and things I'm currently building
 - 🎨 I like clean UI and smooth digital experiences
 
 ---
+##  GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gayatri-nawale&bg_color=0d1117&color=7aa2f7&line=bb9af7&point=ffffff&area=true&hide_border=true&hide_title=true" width="95%"/>
+
+<br><br>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=gayatri-nawale&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=1800" />
+
+</div>
